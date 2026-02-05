@@ -25,7 +25,7 @@ The dataset includes:
 * Data Cleaning
 * Dashboard Visualization
 
-##📊 Key Insights
+📊 Key Insights
 
 * Women drive ~96% of total sales, making them the dominant customer segment.
 * 94% of orders are successfully delivered, indicating strong operational performance.
